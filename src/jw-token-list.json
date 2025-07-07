@@ -1,0 +1,19 @@
+{
+  "name": "JW Token List",
+  "timestamp": "2025-07-07T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2D73f8e1D52Dbf778A49504555E6213B93a0a25F",
+      "name": "JINNIEWORLD",
+      "symbol": "JW",
+      "decimals": 18,
+      "logoURI": "http://jwtoken.link/wp-content/uploads/2025/06/Add-a-heading-1.svg"
+    }
+  ]
+}
